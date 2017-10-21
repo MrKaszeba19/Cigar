@@ -1,4 +1,6 @@
 # Cigar
+## About
+Cigar is expected to be a lightweight text editor which may let you store your files in the external storage and share them to other users, e.g. in a workgroup.
 
 ## Notes
 Cigar-kernafval is a development edition and may be unstable.
